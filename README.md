@@ -35,7 +35,11 @@ Then you can interact with genki-bot by typing `genki-bot help`.
     help - Displays all of the help commands that Hubot knows about.
     ...
 
-## Deployment
+## Deployment to Heroku
+
+[![Heroku Button](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+or
 
     % heroku create --stack cedar
     % git push heroku master

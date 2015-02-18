@@ -1,0 +1,14 @@
+{
+  "name": "Genki Bot for Slack",
+  "description": "",
+  "keywords": [
+    "hubot",
+    "slack"
+  ],
+  "addons": [],
+  "env": {
+    "HUBOT_SLACK_TOKEN": {
+       "description": "see http://my.slack.com/services/new/hubot"
+    }
+  }
+}
